@@ -1,0 +1,18 @@
+
+.name{
+    margin-left: 10px;
+    margin: auto 10px;
+    color: white;
+    font-size: 15px;
+    text-align: center;
+}
+.logo{
+    width: 90%;
+    height: 90%;
+    margin-left:10px; 
+}
+.place{ 
+    height: 10vh;
+    display: flex;
+    justify-content: left;
+}

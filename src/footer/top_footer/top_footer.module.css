@@ -1,0 +1,10 @@
+p{
+    margin-left: 10px;
+}
+.top{
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+}

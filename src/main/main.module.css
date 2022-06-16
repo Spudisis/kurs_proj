@@ -1,0 +1,6 @@
+.window{
+    border: 1px solid black;
+    min-height: 90vh;
+    max-width: 1440px;
+    margin: 0 auto;
+}
