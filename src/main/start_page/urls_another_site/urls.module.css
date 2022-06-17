@@ -1,0 +1,44 @@
+.display{
+    background-color: white;
+}
+.wrapper{
+    max-width: 1170px;
+    margin: 0px auto;
+
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
+}
+.help{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.block img{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+.block h4{
+    padding: 0px;
+    margin: 0px;
+}
+.block a{
+    color: black;
+    font-size: 15px;
+    
+}
+.block{
+    width: 30%;
+    display: flex;
+    margin-top: 30px;
+}
+.nameSite{
+    margin-left: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+

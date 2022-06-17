@@ -6,8 +6,11 @@ import Navigation from './navigation/navigation';
 function Header() {
     return (
         <header className={s.test}>
-            <LogoName />
-            <Navigation />
+            <div className={s.wrapper}>
+                <LogoName />
+                <Navigation />
+            </div>
+
         </header>
     )
 
