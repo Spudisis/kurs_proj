@@ -1,0 +1,15 @@
+.wrapper{
+    max-width: 1120px;
+    margin: 30px auto;
+}
+
+.wrapper p{
+    margin: 10px 0px;
+    text-align: justify;
+    font-size: 20px;
+}
+.wrapper li{
+    font-size: 20px;
+    text-align: justify;
+    margin: 5px 0px 5px;
+}

@@ -15,7 +15,7 @@ function Main() {
                 <Route path="/statemant" element={<Statemant />} />
                 <Route path="/guide" element={<Guide />} />
                 <Route path="/press-center" element={<PressCenter />} />
-                <Route path="/activity" element={<Activity />} />
+                <Route path="/activity/*" element={<Activity />} />
             </Routes>
         </div>
     )
