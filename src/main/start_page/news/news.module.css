@@ -1,0 +1,33 @@
+.display{
+    background-color: white
+}
+.wrapper{
+    max-width: 1170px;
+    margin: 20px auto;
+}
+.news{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.slider{
+    
+    width: 100%;
+    height: 635px;
+    border: 1px solid black;
+    border-radius: 20px;
+    
+}
+.list_news{
+    margin-left: 10px;
+    
+    list-style: none;
+    width: 40%;
+}
+.anotherNews{
+    float: right;
+    color: black;
+}
+li{
+    height: 25%;
+}

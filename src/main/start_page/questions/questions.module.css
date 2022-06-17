@@ -1,0 +1,18 @@
+.display{
+    background-color: white.
+}
+.wrapper{
+    max-width: 1170px;
+    margin: 0px auto;
+
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.right a{
+    color: black;
+}
+
+.right{
+    display: flex;
+    justify-content: end;
+}
