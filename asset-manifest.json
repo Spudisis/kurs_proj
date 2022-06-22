@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kurs_proj.github.io/static/css/main.e4a8b617.css",
+    "main.js": "/kurs_proj.github.io/static/js/main.2e83ee3d.js",
+    "index.html": "/kurs_proj.github.io/index.html",
+    "main.e4a8b617.css.map": "/kurs_proj.github.io/static/css/main.e4a8b617.css.map",
+    "main.2e83ee3d.js.map": "/kurs_proj.github.io/static/js/main.2e83ee3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4a8b617.css",
+    "static/js/main.2e83ee3d.js"
+  ]
+}
