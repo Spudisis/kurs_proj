@@ -5,7 +5,7 @@ function Questions() {
         <div className={s.display}>
             <div className={s.wrapper}>
                 <hr />
-                <h2>Ввопросы и ответы</h2>
+                <h2>Вопросы и ответы</h2>
                 <div className={s.right}>
                     <a href="#">Все вопросы и ответы -&gt;</a>
                 </div>
