@@ -10,7 +10,6 @@ function Header() {
                 <LogoName />
                 <Navigation />
             </div>
-
         </header>
     )
 
